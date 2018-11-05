@@ -6,4 +6,5 @@ ddddd
 eee
 fff
 eeeeee
+gggg   changed by hot_fix
 gggg   changed by master
